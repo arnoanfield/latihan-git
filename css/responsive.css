@@ -1,0 +1,20 @@
+@media (max-device-width:320px){
+	#login{
+		margin-top: 100px;
+		width: 243px;
+	}
+	.image {
+		width: 320px;
+		height: 480px;
+	}
+	#user{
+		width: 169px;
+	}
+	#pass{
+		width: 169px;
+	}
+	.image img{
+		margin-left: -190px;
+		width: 200%;
+	}
+}
